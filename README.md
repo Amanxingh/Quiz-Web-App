@@ -5,7 +5,7 @@ Quizfy is an interactive quiz web application that challenges users with fun and
 ![Quizfy Logo](src/images/pngwing.com%20(1).png)
 
 ## Features
-
+ This is done by aman
 - **Interactive Quizzes**: Engage with dynamic and fun quizzes across multiple categories.
 - **Leaderboard**: Compete with friends and see your name on the leaderboard.
 - **Progress Tracking**: Track your progress and improve your knowledge over time.
